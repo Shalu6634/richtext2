@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ),
               TextSpan(
-                text: '  OutlinedText\n',
+                text: 'OutlinedText\n',
                 style: TextStyle(
                   color: Colors.green,
                   fontSize: 30,
